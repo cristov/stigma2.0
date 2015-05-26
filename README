@@ -1,1 +1,9 @@
 # stigma2.0
+
+# install SERVER
+## cd /var/www/html
+## composer create-project laravel/laravel --prefer-dist stigma2
+## cd stigma2
+## git init
+## git remote add origin 
+## git pull origin master
